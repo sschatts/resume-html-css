@@ -33,6 +33,7 @@ header {
 	margin-bottom: 1.875rem;
 }
 
+
 .circle {
     width: 170px;
     height: 170px;
@@ -49,6 +50,27 @@ header {
 	padding: 35px 60px 35px 60px;
 	border: 2px dashed #FFF;
 	border-radius: 115px;
+}
+
+.top_page{
+	margin-top: 2rem;
+}
+
+.top{
+	margin-top: 4rem;
+}
+
+.where{
+	font-weight: bold;
+	display: inline;
+	text-align: left;
+}
+
+.when{
+	font-weight: bold;
+	display: inline-block;
+	position:absolute;
+	right:0;
 }
 
 .no_space_bottom{
@@ -105,6 +127,11 @@ ul{
 	display: inline;
 	list-style: none;
 	text-align: right;
+}
+
+.right_side{
+	border-left: 2px dashed rgb(140, 140, 140);
+	padding-left: 14px;
 }
 
 .left_side{
