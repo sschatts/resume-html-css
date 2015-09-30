@@ -138,16 +138,19 @@ ul{
 	padding-right: 4px;
 }
 
+/*overall padding on the icons in the contact section*/
 .icon{
 	display: inline-block;
 	vertical-align: bottom;
 	padding-right: 132px;
 }
 
+/*padding for the git icon*/
 .git{
 	padding-right: 92px;
 }
 
+/*the specific padding for the mail icon*/
 .mail{
 	padding-right: 118px;
 }
